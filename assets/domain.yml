@@ -1,0 +1,4 @@
+production:
+  domain: "canvas.drimaesvn.com"
+  ssl: true
+  
